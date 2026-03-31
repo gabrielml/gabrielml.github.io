@@ -77,7 +77,7 @@ function sendData() {
     XHR.addEventListener("load", function(event) {
         if (XHR.readyState === XHR.DONE) {
             if (XHR.status === 200) {
-                alert("Your order has been received! Check your email.");
+                alert("Transmission received by the mothership! 📡 I'll beam back a response as fast as a warp drive. Thanks for reaching out! 🚀");
             } else {
                 alert("Oh oh! We have a problem! " + XHR.responseText + ".");
             }
