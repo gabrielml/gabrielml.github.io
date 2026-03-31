@@ -4,7 +4,13 @@ take alien dance lessons, or enjoy a cozy alien dinner? **Now is your chance!** 
 
 ## 🚀 What is this?
 This is a fun, space-themed fronted project featuring an **Alien Abduction Order Form**. We've got classic UFOs,
-Star Wars cruisers, and even Borg cubes ready for deployment.
+Star Wars cruisers, and even Borg cubes ready for deployment. It includes:
+
+* **HTML5:** A carefully structured form to collect all your abduction preferences, from the 
+  type of UFO to the number of abductees.
+* **CSS3:** Out-of-this-world styling with a stunning cosmic background.
+* **JavaScript:** Custom form submission handling using `XMLHttpRequest` to ensure your request
+  reaches the mothership!
 
 > ### Come on, click the link now! 👉 https://gabrielml.github.io/ 🛸💨
 
